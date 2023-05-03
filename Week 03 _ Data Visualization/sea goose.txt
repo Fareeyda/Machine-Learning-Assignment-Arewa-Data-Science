@@ -1,0 +1,9 @@
+OBIS-SEAMAP ID	934
+Seabirds	0
+Marine mammals	0
+Sea turtles	0
+Rays and sharks	0
+Other species	4,206
+Non spatial	0
+Non species	0
+Total	4,206
